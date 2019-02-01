@@ -92,11 +92,6 @@ end
 
 ### So, what is a block?
 
-A block is a simple unit of code that starts with the `do` keyword and ends with the `end` keyword. Blocks are a complex and wonderful part of the Ruby language and we don't need to focus on exactly what they are right now. It's best to think of a block just as a word used to describe a certain chunk, or unit, of code (almost like a paragraph). You can generally tell that something is a block because it is indented and grouped together. The aesthetics, the very form of the code, like in a poem, suggest a structure. That's a block.
-
-Resources on Blocks:
-
-- [Why's Guide to Blocks](http://mislav.uniqpath.com/poignant-guide/book/chapter-3.html)
 - [Codecademy on Blocks](http://www.codecademy.com/courses/ruby-beginner-en-L3ZCI/0/1?curriculum_id=5059f8619189a5000201fbcb)
 - [RubyMonk on Blocks](http://rubymonk.com/learning/books/1-ruby-primer/chapters/34-lambdas-and-blocks-in-ruby/lessons/78-blocks-in-ruby)
 
